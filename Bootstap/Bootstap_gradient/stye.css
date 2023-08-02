@@ -1,0 +1,26 @@
+                                                  /* body css */
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+}
+                                                     /* row css */
+.row{
+    height: 100vh;
+}
+                                                  /* coloum css */
+.col{
+    padding-top: 50vh;
+}
+                                                /* section css */
+#hero-image {
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.9)), url(images/imge.jpg);
+    background-repeat: round;
+}
+                                            /* all h1 and p css  */
+h1, p{
+    font-family: Audiowide, sans-serif;
+}
+
+
+
+ /* CODE CREATER BY WARDIER  */

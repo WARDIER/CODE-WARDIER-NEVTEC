@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+.contaner{
+    background-color: orange;
+}
+.row{background-color: yellowgreen;
+height: 70vh;
+}
+#col-1{
+    background-color: brown;
+   
+}
+#col-2{
+    background-color: salmon;
+}
+#col-3{
+    background-color: seagreen;
+}
+#col-4{
+    background-color: slateblue;
+}
+#col-5{
+    background-color: springgreen;
+}
+#col-6{
+    background-color: steelblue;
+}
+#col-7{
+    background-color: cornflowerblue;
+}
+#col-8{
+    background-color: burlywood;
+}
+#col-9{
+    background-color: sienna;
+}
+#r-2{
+    height: 40%;
+    
+}
+#r-3{
+    height: 60%;
+    background-color: blueviolet;
+}
+
+
+ /* CODE CREATER BY WARDIER  */
