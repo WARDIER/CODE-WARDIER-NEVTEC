@@ -1,0 +1,107 @@
+/* medaquery */
+*{
+    margin: 0;
+
+}
+.outer-box{
+    border: black 2px solid ;
+    background-color: salmon;
+}
+
+ .outer-box #red-box{
+    border:  sienna 6px solid;
+    padding: 50px;
+    background-color: slategrey;
+    margin: 15px;
+}
+
+.outer-box #green-box{
+    border:  seagreen 6px solid;
+    padding: 50px;
+    background-color: greenyellow;
+    margin: 45px;
+}
+@media (max-width:2000px){
+
+    .outer-box #green-box{
+        border:  sienna 6px solid;
+        padding: 50px;
+        background-color: slategrey;
+        margin: 15px;
+    }
+    
+    .outer-box #red-box{
+        border:  seagreen 6px solid;
+        padding: 50px;
+        background-color: greenyellow;
+        margin: 45px;
+    }
+}
+
+@media (max-width:1000px){
+
+    .outer-box #red-box{
+        border:  sienna 6px solid;
+        padding: 50px;
+        background-color: slategrey;
+        margin: 15px;
+    }
+    
+    .outer-box #green-box{
+        border:  seagreen 6px solid;
+        padding: 50px;
+        background-color: greenyellow;
+        margin: 45px;
+    }
+}
+@media (max-width:500px){
+
+    .outer-box #green-box{
+        border:  sienna 6px solid;
+        padding: 50px;
+        background-color: slategrey;
+        margin: 15px;
+    }
+    
+    .outer-box #red-box{
+        border:  seagreen 6px solid;
+        padding: 50px;
+        background-color: greenyellow;
+        margin: 45px;
+    }
+}
+@media (max-width:300px){
+
+    .outer-box #red-box{
+        border:  sienna 6px solid;
+        padding: 50px;
+        background-color: slategrey;
+        margin: 15px;
+    }
+    
+    .outer-box #green-box{
+        border:  seagreen 6px solid;
+        padding: 50px;
+        background-color: greenyellow;
+        margin: 45px;
+    }
+}
+@media (max-width:64px){
+
+    .outer-box #green-box{
+        border:  sienna 6px solid;
+        padding: 50px;
+        background-color: slategrey;
+        margin: 15px;
+    }
+    
+    .outer-box #red-box{
+        border:  seagreen 6px solid;
+        padding: 50px;
+        background-color: greenyellow;
+        margin: 45px;
+    }
+}
+
+
+

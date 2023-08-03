@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
+*{
+    margin: 0;
+   
+}
+
+#i1{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: slateblue;
+}
+#i2{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: salmon;
+}
+#i3{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: seagreen;
+}
+#i4{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: sandybrown;
+}
+#i5{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: seashell;
+}
+#i6{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: skyblue;
+}
+#i7{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: slateblue;
+}
+#i8{
+    height: 55PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: silver;
+}
+
+
+.container{
+    /* margin: 0px; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
+
+.pakistan{
+    /* margin: 0px; */
+    background-color: green;
+    color: white;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    font-family: fasthand;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    padding: 10px 20px;
+    text-align: justify;
+    font-size: 20px;
+}
+.Islamabad{
+    background-color: black;
+    color: wheat;
+    display: grid;
+grid-template-columns: 1fr 4fr;
+}
+.Karachi{
+    background-color: lightgoldenrodyellow;
+    color: black;
+    display: grid;
+grid-template-columns: 2fr 1fr;
+}
+.sindh{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    background-color: burlywood;
+    
+}
+
+.naran{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    background-color: darkolivegreen;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    border: 1px transparent solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.514), 0 6px 20px 0 rgba(0, 0, 0, 0.459);
+}
+
+.data-edu{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+ /* CODE CREATER BY WARDIER  */

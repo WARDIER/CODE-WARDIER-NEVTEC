@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.Slder {
+    height: 300PX;
+    text-align: center;
+    padding-top: 35px;
+    background-color: skyblue;
+    border: 3px transparent solid;
+}
+
+
+
+
+.contaner {
+    background-color: aliceblue;
+    text-align: center;
+    border: 3px transparent solid;
+}
+
+.para_img {
+    
+    background-color: green;
+    color: white;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    border: 3px transparent solid;
+    height: 300PX;
+
+}
+
+.para_img .para {
+    background-color: rgba(245, 245, 245, 0.658);
+    color: white;
+text-align: center;
+    border: 3px transparent solid;
+    
+
+}
+
+h4 {
+    text-align: center;
+    background-color: crimson;
+}
+
+
+
+.glarrey {
+    
+    height: 400px;
+    border: 1px transparent solid;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+    background-color: black;
+
+    text-align: center;
+}
+
+.img1 {
+    height: 400px;
+    width: 350px;
+    border: 1px transparent solid;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.img2 {
+    height: 400px;
+    width: 350px;
+    border: 1px transparent solid;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.img3 {
+    height: 400px;
+    width: 350px;
+    border: 1px transparent solid;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.img4 {
+
+    height: 400px;
+    width: 350px;
+    border: 1px transparent solid;
+    background-color: brown;
+    text-align: center;
+}
+
+
+
+.footer {
+    background-color: black;
+    color: wheat;
+    text-align: center;
+    height: 75px;
+
+}
+
+ /* CODE CREATER BY WARDIER  */
