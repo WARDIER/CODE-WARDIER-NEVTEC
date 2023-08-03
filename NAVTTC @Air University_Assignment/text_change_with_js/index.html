@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CODE CREATER BY WARDIER -->
+    <title>change the title uzing js in html</title>
+</head>
+<body>
+    <h1 id="hed">Hello World!</h1>
+    <button id="btn" onclick="alter()">Change Title</button>
+    
+    <script>
+       let h1= document.getElementById("#hed")
+       let btn = document.querySelector('#btn')
+
+       
+       function alter(){
+       if (btn.innerHTML==="Change Title" ){
+        h1.innerHTML = "Wellcome to Pakistan"
+       btn.innerHTML ="Reset"
+       } else { 
+        h1.innerHTML = "Original"
+        btn.innerHTML = "Change Title"
+
+       }
+    }
+    </script>
+</body>
+</html>
