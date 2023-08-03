@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #timeZones {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .timeZoneCard {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 200px;
+    background-color: #f9f9f9;
+  }
+  
+  .countryName {
+    font-weight: bold;
+  }
+  
+  .time {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+
+  /* CODE CREATER BY WARDIER */
